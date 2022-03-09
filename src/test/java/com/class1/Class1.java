@@ -26,20 +26,34 @@ public class Class1 {
 		System.out.println("5");
 
 	}
-	
+
 	private void method6() {
 		System.out.println("6");
 
 	}
-	
+
 	private void method7() {
 		System.out.println("7");
 
 	}
-	
+
 	private void method8() {
 		System.out.println("8");
 
+	}
+
+	private void method11() {
+		System.out.println("11");
+
+	}
+
+	private void method12() {
+		System.out.println("12");
+
+	}
+
+	private void method13() {
+		System.out.println("13");
 	}
 
 }
