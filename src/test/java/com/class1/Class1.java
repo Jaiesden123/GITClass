@@ -26,5 +26,20 @@ public class Class1 {
 		System.out.println("5");
 
 	}
+	
+	private void method11() {
+		System.out.println("11");
+
+	}
+	
+	private void method12() {
+		System.out.println("12");
+
+	}
+	
+	private void method13() {
+		System.out.println("13");
+
+	}
 
 }
